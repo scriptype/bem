@@ -1,6 +1,6 @@
 {
   "name": "dynamic-bem-classnames",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small utility for creating dynamic BEM classnames.",
   "main": "bem.min.js",
   "scripts": {
