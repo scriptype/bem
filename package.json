@@ -1,0 +1,16 @@
+{
+  "name": "bem",
+  "version": "1.0.0",
+  "description": "A small utility for creating dynamic BEM classnames.",
+  "main": "bem.min.js",
+  "scripts": {
+    "build": "npm run babel && npm run uglify",
+    "babel": "babel --no-comments --compact true bem.src.js -o bem.min.js",
+    "uglify": "uglify -s bem.min.js -o bem.min.js"
+  },
+  "keywords": [
+    "bem"
+  ],
+  "author": "M. Enes Ertarhanacı",
+  "license": "ISC"
+}
