@@ -28,7 +28,7 @@ var itemClasses = bem.makeClassName({
   }
 })
 
-// "foo-list__item foo-list__item--active  foo-list__item--hidden"
+// "foo-list__item foo-list__item--active foo-list__item--hidden"
 ```
 
 `block` is mandatory to at least have a base class string.
