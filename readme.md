@@ -2,6 +2,9 @@
 
 A small utility for creating dynamic BEM classnames.
 
+### Install
+`npm i dynamic-bem-classnames`
+
 ### Usage
 
 `var bem = require('bem');`

@@ -1,5 +1,5 @@
 {
-  "name": "bem",
+  "name": "dynamic-bem-classnames",
   "version": "1.0.0",
   "description": "A small utility for creating dynamic BEM classnames.",
   "main": "bem.min.js",
@@ -11,6 +11,6 @@
   "keywords": [
     "bem"
   ],
-  "author": "M. Enes Ertarhanacı",
+  "author": "enesertarhanaci",
   "license": "ISC"
 }
